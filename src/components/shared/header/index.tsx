@@ -6,7 +6,7 @@ import { Separator } from "@/components/ui/separator";
 export default function Header() {
   return (
     <header>
-      <div className="mx-auto max-w-3xl p-6">
+      <div className="mx-auto max-w-3xl py-6">
         <div className="flex items-center justify-between">
           <div>
             <Link href="/" className="font-bold">
